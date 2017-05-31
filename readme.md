@@ -5,7 +5,7 @@ Lists all laravel projects and run gulp or npm of modules.
 ## Installation
 * **
 - Open terminal
-- Run `npm install -g git+https://github.com/sabarnix/jian-yang.git`
+- Run `npm install -g git+https://github.com/sabarnix/jian-yang.git` or `yarn global add git+https://github.com/sabarnix/jian-yang.git`
 
 ## Run
 * **
