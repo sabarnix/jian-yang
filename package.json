@@ -1,0 +1,16 @@
+{
+    "author": "sabarni.d, rohan.k",
+    "license": "BSD",
+    "name": "jian-yang",
+    "version": "0.0.1",
+    "description": "Search for laravel projects and starts artisan serve, gulp/npm scripts",
+    "dependencies": {
+        "inquirer": "^3.0.6",
+        "portfinder": "^1.0.13"
+    },
+    "bin": {
+        "jy": "lib.js"
+    },
+    "main": "index.js",
+    "preferGlobal": true
+}
